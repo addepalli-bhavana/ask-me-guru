@@ -381,12 +381,13 @@ main {
   gap: 1.5rem 3rem;
   align-items: center;
   justify-content: center;
-  padding: 2rem 0;
+  padding: 2.3rem 0;
 }
 .header-center img {
   margin: 0 auto;
   border-radius: var(--radius);
   height: 28.75rem;
+  width:400px;
   transition: var(--transition);
 }
 .header-center p {
