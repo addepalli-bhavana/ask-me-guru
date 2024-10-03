@@ -382,6 +382,7 @@ main {
   align-items: center;
   justify-content: center;
   padding: 2.3rem 0;
+  overflow: hidden;
 }
 .header-center img {
   margin: 0 auto;
