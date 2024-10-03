@@ -1,7 +1,7 @@
 ## Project Name: **askmeguru**
 
 ## Deployed Link
-You can view the live version of the project at: [askmeguru Project](https://addepalli-bhavana-askmeguru.netlify.app/)
+You can view the live version of the project at: [askmeguru Project](https://bhavana-ask-me-guru.netlify.app/)
 
 ## Screenshots
 ### Desktop View
